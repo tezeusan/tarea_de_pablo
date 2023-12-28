@@ -1,4 +1,4 @@
-```markdown
+\```markdown
 # FastAPI Docker Tutorial
 
 This repository contains the code and configurations for a project that utilizes Docker Compose to run two APIs built with FastAPI.
@@ -58,4 +58,4 @@ This repository contains the code and configurations for a project that utilizes
 ## Stopping the Project
 
 To stop the project, press `Ctrl + C` in the terminal where Docker Compose is running.
-```
+\```
