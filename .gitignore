@@ -1,0 +1,5 @@
+# Игнорировать папки .idea и venv в api1 и api2
+api1/.idea/
+api1/venv/
+api2/.idea/
+api2/venv/
