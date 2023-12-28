@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+```markdown
+>>>>>>> 813ea39e80c74384fd15a0e05c8912d24b558adb
 # FastAPI Docker Tutorial
 ```markdown
 This repository contains the code and configurations for a project that utilizes Docker Compose to run two APIs built with FastAPI.
@@ -58,7 +62,11 @@ This repository contains the code and configurations for a project that utilizes
 
 To stop the project, press `Ctrl + C` in the terminal where Docker Compose is running.
 
+<<<<<<< HEAD
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
+=======
+Просто выделите весь текст выше и скопируйте его. Затем вставьте в ваш файл README.md в репозитории на GitHub.
+>>>>>>> 813ea39e80c74384fd15a0e05c8912d24b558adb
